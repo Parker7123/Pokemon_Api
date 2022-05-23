@@ -1,4 +1,4 @@
 # Pokemon_Api
-git clone
-gradlew build
-gradlew run --args="<input-file> <output-file>"
+git clone  
+gradlew build  
+gradlew run --args="<input-file> <output-file>"  
